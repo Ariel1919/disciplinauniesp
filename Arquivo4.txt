@@ -1,0 +1,3 @@
+Primeiro pra upar vc percisa do git add
+dps git commit -m"Nome da versão ajuda"
+dps git push
